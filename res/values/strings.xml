@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Modifié dans le fork Hume Launcher+ : description du service traduite en français. -->
+<resources>
+    <string name="power_service_desc">Permet à Hume Launcher+ de mettre la TV en veille (Éteindre, minuterie de veille), de fermer les apps quand vous appuyez sur Libérer dans le Centre de contrôle, d\'ouvrir Hume quand le bouton Accueil affiche l\'écran d\'accueil de la TV, d\'ouvrir l\'app ou la source de votre choix au réveil de la TV, et de gérer la touche Réglages de la télécommande (menu rapide de la TV, ou Centre de contrôle sur l\'accueil). Pour le bouton Accueil et la touche Réglages, il note seulement quelle app est à l\'écran. Il joue aussi les sons de navigation de Hume dans les menus des autres apps : il note seulement qu\'un élément a été sélectionné ou validé, et si la touche Retour est pressée. Il ne garde que la touche Réglages : les autres touches passent sans être enregistrées. À part appuyer sur Forcer l\'arrêt pour Libérer, il ne lit pas ce qui est à l\'écran.</string>
+</resources>

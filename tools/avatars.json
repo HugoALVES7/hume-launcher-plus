@@ -1,0 +1,286 @@
+[
+ {
+  "id": "marvel",
+  "name": "Marvel",
+  "tint": [
+   "#7a1020",
+   "#1a0508"
+  ],
+  "items": [
+   [
+    "iron_man",
+    "Iron Man",
+    "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9d/Iron_Man_Infobox.jpg/revision/latest"
+   ],
+   [
+    "captain_america",
+    "Captain America",
+    "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b7/Steve_Rogers_Infobox.jpg/revision/latest"
+   ],
+   [
+    "thor",
+    "Thor",
+    "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/2b/Thor_Infobox.jpg/revision/latest"
+   ],
+   [
+    "black_widow",
+    "Black Widow",
+    "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3f/Black_Widow_Infobox.jpg/revision/latest"
+   ],
+   [
+    "hulk",
+    "Hulk",
+    "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/29/Hulk_Infobox.jpg/revision/latest"
+   ],
+   [
+    "black_panther",
+    "Black Panther",
+    "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9d/T%27Challa_Infobox.jpg/revision/latest"
+   ],
+   [
+    "doctor_strange",
+    "Doctor Strange",
+    "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b2/Doctor_Strange_MoM_Profile.jpeg/revision/latest"
+   ],
+   [
+    "loki",
+    "Loki",
+    "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b5/Loki_Infobox.png/revision/latest"
+   ]
+  ]
+ },
+ {
+  "id": "spiderman",
+  "name": "Spider-Man",
+  "tint": [
+   "#b0182a",
+   "#0d1a3a"
+  ],
+  "items": [
+   [
+    "peter_parker",
+    "Peter Parker",
+    "https://static.wikia.nocookie.net/spidermanps4/images/c/ca/Peter_Parker_from_MSM2_headshot.png/revision/latest"
+   ],
+   [
+    "miles_morales",
+    "Miles Morales",
+    "https://static.wikia.nocookie.net/spidermanps4/images/2/24/Miles_Morales_from_MSM2_headshot.png/revision/latest"
+   ],
+   [
+    "mary_jane",
+    "Mary Jane",
+    "https://static.wikia.nocookie.net/spidermanps4/images/5/52/Mary_Jane_Watson_from_MSM2_headshot.png/revision/latest"
+   ],
+   [
+    "harry_osborn",
+    "Harry Osborn",
+    "https://static.wikia.nocookie.net/spidermanps4/images/8/88/Harry_Osborn_from_MSM2_headshot.png/revision/latest"
+   ],
+   [
+    "venom",
+    "Venom",
+    "https://static.wikia.nocookie.net/spidermanps4/images/b/bf/Venom_from_MSM2_render.png/revision/latest"
+   ],
+   [
+    "kraven",
+    "Kraven",
+    "https://static.wikia.nocookie.net/spidermanps4/images/1/18/Kraven_from_MSM2_headshot.png/revision/latest"
+   ],
+   [
+    "doctor_octopus",
+    "Docteur Octopus",
+    "https://static.wikia.nocookie.net/spidermanps4/images/3/37/Doctor_Octopus_from_MSM_render.png/revision/latest"
+   ],
+   [
+    "ganke",
+    "Ganke",
+    "https://static.wikia.nocookie.net/spidermanps4/images/6/6f/Ganke_Lee_from_MSM2_headshot.png/revision/latest"
+   ]
+  ]
+ },
+ {
+  "id": "resident_evil",
+  "name": "Resident Evil",
+  "tint": [
+   "#3a2a12",
+   "#0a0805"
+  ],
+  "items": [
+   [
+    "leon",
+    "Leon S. Kennedy",
+    "https://static.wikia.nocookie.net/residentevil/images/7/7d/RE9_-_Leon_Render.png/revision/latest"
+   ],
+   [
+    "jill",
+    "Jill Valentine",
+    "https://static.wikia.nocookie.net/residentevil/images/0/0e/Jill_-_Death_Island_Render.png/revision/latest"
+   ],
+   [
+    "chris",
+    "Chris Redfield",
+    "https://static.wikia.nocookie.net/residentevil/images/d/d8/ChrisBFull.png/revision/latest"
+   ],
+   [
+    "claire",
+    "Claire Redfield",
+    "https://static.wikia.nocookie.net/residentevil/images/9/9e/Claire_-_Death_Island_Render.png/revision/latest"
+   ],
+   [
+    "ada",
+    "Ada Wong",
+    "https://static.wikia.nocookie.net/residentevil/images/a/a7/Ada_Wong_RE6_render.png/revision/latest"
+   ],
+   [
+    "wesker",
+    "Albert Wesker",
+    "https://static.wikia.nocookie.net/residentevil/images/e/e4/Wesker_Revelations_2_Render.png/revision/latest"
+   ],
+   [
+    "dimitrescu",
+    "Lady Dimitrescu",
+    "https://static.wikia.nocookie.net/residentevil/images/f/f8/ADimitrescuFull.png/revision/latest"
+   ],
+   [
+    "ethan",
+    "Ethan Winters",
+    "https://static.wikia.nocookie.net/residentevil/images/4/4f/Ethan_Village_Render.png/revision/latest"
+   ]
+  ]
+ },
+ {
+  "id": "tlou",
+  "name": "The Last of Us",
+  "tint": [
+   "#2c3a24",
+   "#0b0f08"
+  ],
+  "items": [
+   [
+    "joel",
+    "Joel",
+    "https://static.wikia.nocookie.net/thelastofus/images/a/af/Part_II_Joel_infobox.png/revision/latest"
+   ],
+   [
+    "ellie",
+    "Ellie",
+    "https://static.wikia.nocookie.net/thelastofus/images/3/34/Part_II_Ellie_infobox.png/revision/latest"
+   ],
+   [
+    "abby",
+    "Abby",
+    "https://static.wikia.nocookie.net/thelastofus/images/8/8b/Abby_TLOU2_remaster.PNG/revision/latest"
+   ],
+   [
+    "tommy",
+    "Tommy",
+    "https://static.wikia.nocookie.net/thelastofus/images/f/f0/Part_II_Tommy_infobox.png/revision/latest"
+   ],
+   [
+    "dina",
+    "Dina",
+    "https://static.wikia.nocookie.net/thelastofus/images/f/f4/Part_II_Dina_infobox.png/revision/latest"
+   ],
+   [
+    "lev",
+    "Lev",
+    "https://static.wikia.nocookie.net/thelastofus/images/a/a3/Part_II_Lev_infobox.png/revision/latest"
+   ]
+  ]
+ },
+ {
+  "id": "zelda",
+  "name": "Zelda",
+  "tint": [
+   "#1f5a4a",
+   "#071a16"
+  ],
+  "items": [
+   [
+    "link",
+    "Link",
+    "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/47/TLoZ_Series_Link_Render.png/revision/latest"
+   ],
+   [
+    "zelda",
+    "Zelda",
+    "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c9/TotK_Princess_Zelda_Artwork.png/revision/latest"
+   ],
+   [
+    "ganondorf",
+    "Ganondorf",
+    "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/66/TotK_Ganondorf.png/revision/latest",
+    "0.50,0.33,0.30"
+   ],
+   [
+    "mipha",
+    "Mipha",
+    "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f0/BotW_Mipha_Artwork.png/revision/latest",
+    "0.45,0.25,0.34"
+   ],
+   [
+    "urbosa",
+    "Urbosa",
+    "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/cf/BotW_Urbosa_Artwork.png/revision/latest",
+    "0.56,0.13,0.26"
+   ],
+   [
+    "revali",
+    "Revali",
+    "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/31/BotW_Revali_Artwork.png/revision/latest",
+    "0.57,0.29,0.34"
+   ]
+  ]
+ },
+ {
+  "id": "rap_fr",
+  "name": "Rap français",
+  "tint": [
+   "#2a2a33",
+   "#09090c"
+  ],
+  "items": [
+   [
+    "booba",
+    "Booba",
+    "https://upload.wikimedia.org/wikipedia/commons/c/c4/Festival_des_Vieilles_Charrues_2019_-_Booba_-_038.jpg"
+   ],
+   [
+    "ninho",
+    "Ninho",
+    "https://upload.wikimedia.org/wikipedia/commons/0/01/Festival_des_Vieilles_Charrues_2022_-_Ninho_-_041.jpg"
+   ],
+   [
+    "jul",
+    "Jul",
+    "https://upload.wikimedia.org/wikipedia/commons/0/08/JUL_-_Julien_Mari_2018.jpg"
+   ],
+   [
+    "sch",
+    "SCH",
+    "https://upload.wikimedia.org/wikipedia/commons/3/35/Festival_des_Vieilles_Charrues_2022_-_SCH_-_038_%28cropped%29.jpg"
+   ],
+   [
+    "nekfeu",
+    "Nekfeu",
+    "https://upload.wikimedia.org/wikipedia/commons/1/1c/Nekfeu_avp.jpg"
+   ],
+   [
+    "orelsan",
+    "Orelsan",
+    "https://upload.wikimedia.org/wikipedia/commons/6/69/Orelsan_au_Beauregard_Festival_2026.jpg"
+   ],
+   [
+    "damso",
+    "Damso",
+    "https://upload.wikimedia.org/wikipedia/commons/9/92/Damso_en_concert_en_2026.jpg"
+   ],
+   [
+    "gazo",
+    "Gazo",
+    "https://upload.wikimedia.org/wikipedia/commons/d/d6/P2N2023Gazo_2.jpg"
+   ]
+  ]
+ }
+]

@@ -1,0 +1,17 @@
+# Modifié dans le fork Hume Launcher+ : avatars et fichier personnel exclus.
+build/
+signing.keystore
+debug.keystore
+*.jks
+keystore-password.txt
+
+# Profile avatars: built locally by tools/fetch_avatars.py (pictures belong to their owners)
+assets/avatars/
+tools/.avatar_cache/
+
+# Personal defaults baked into your own build (copy personal.example.json to assets/personal.json)
+assets/personal.json
+
+# Scripts et sauvegardes propres à votre TV (jamais publiés)
+tv-local/
+.DS_Store
